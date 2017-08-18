@@ -1,0 +1,19 @@
+{
+  "name": "rancher-connect",
+  "version": "1.0.0",
+  "description": "rancher-connect",
+  "main": "lib/lib.js",
+  "scripts": {
+    "test": "lab -a code -L"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviidmart/rancher-connect.git"
+  },
+  "author": "David Mart",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/daviidmart/rancher-connect/issues"
+  },
+  "homepage": "https://github.com/daviidmart/rancher-connect#readme"
+}
