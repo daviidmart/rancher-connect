@@ -1,10 +1,10 @@
 {
   "name": "rancher-connect",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "rancher-connect",
   "main": "lib/lib.js",
   "scripts": {
-    "test": "lab -a code -L"
+    "test": ""
   },
   "repository": {
     "type": "git",
