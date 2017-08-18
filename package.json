@@ -1,6 +1,6 @@
 {
   "name": "rancher-connect",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "rancher-connect",
   "main": "lib/lib.js",
   "scripts": {
