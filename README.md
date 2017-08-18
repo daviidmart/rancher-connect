@@ -1,7 +1,7 @@
 # rancher-node
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/daviidmart/rancher-connect.svg)]
-[![Known Vulnerabilities](https://snyk.io/test/github/daviidmart/rancher-connect/badge.svg)]
+![Greenkeeper badge](https://badges.greenkeeper.io/daviidmart/rancher-connect.svg)
+![Known Vulnerabilities](https://snyk.io/test/github/daviidmart/rancher-connect/badge.svg)
 
 Node client for the Rancher API
 
