@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/daviidmart/rancher-connect/issues"
   },
-  "homepage": "https://github.com/daviidmart/rancher-connect#readme"
+  "homepage": "https://github.com/daviidmart/rancher-connect#readme",
+  "dependencies": {
+    "joi": "10.x",
+    "request": "2.x"
+  }
 }
