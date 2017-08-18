@@ -1,4 +1,6 @@
 # rancher-node
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/daviidmart/rancher-connect.svg)](https://greenkeeper.io/)
 Node client for the Rancher API
 
 ## Client
