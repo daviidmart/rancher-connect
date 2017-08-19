@@ -1,7 +1,7 @@
 {
   "name": "rancher-connect",
-  "version": "1.0.11",
-  "description": "rancher-connect",
+  "version": "1.0.12",
+  "description": "Rancher REST API client for Node.js.",
   "main": "lib/lib.js",
   "keywords": [
     "rancher",
