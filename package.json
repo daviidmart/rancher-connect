@@ -1,8 +1,16 @@
 {
   "name": "rancher-connect",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "rancher-connect",
   "main": "lib/lib.js",
+  "keywords": [
+    "rancher",
+    "api",
+    "connect",
+    "node",
+    "wrapper",
+    "client"
+  ],
   "scripts": {
     "test": ""
   },
