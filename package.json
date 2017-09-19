@@ -26,6 +26,6 @@
   "homepage": "https://github.com/daviidmart/rancher-connect#readme",
   "dependencies": {
     "joi": "10.x",
-    "request": "2.x"
+    "request": "^2.82.0"
   }
 }
